@@ -1,10 +1,3 @@
-#
-# Name:
-# File: button.py
-# Date: Spring 2018
-#
-# Desc: Button class from Zelle page 340 
-
 from graphics import *
 
 class Button:
@@ -61,9 +54,3 @@ class Button:
         self.label.setFill('darkgrey')
         self.rect.setWidth(1)
         self.active = False
-       
-               
-        
-
-    
-    
