@@ -2,10 +2,8 @@ from graphics import *
 
 class Button:
 
-    """A button is a labeled rectangle in a window.
-    It is activated or deactivated with the activate()
-    and deactivate() methods. The clicked(p) method
-    returns True if the button is active and p is inside it."""
+    """A button is a labeled rectangle in a window. It is activated or deactivated with the activate() and deactivate() methods. 
+    The clicked(p) method returns True if the button is active and p is inside it."""
 
     def __init__(self, win, center, width, height, label):
         """ Creates a rectangular button eq:
