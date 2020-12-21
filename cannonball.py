@@ -1,6 +1,4 @@
-# Name: Quang Nguyen
-# File: cannonball.py
-# Desc: A Cannonball Shooting Game Program
+# Cannonball Shooting Game Program
 
 from graphics import *
 from button import *
